@@ -50,7 +50,8 @@ Follow the [Quick start](AGENTS.md#quick-start) yourself or [install with your c
 
 ## Supported TVs
 
-Any TV running Android TV or Google TV on **Android 12 or newer**, from any brand. Tested on Google TV. Untested:
+Any TV running Android TV or Google TV on **Android 11 or newer**, from any brand. Tested on Google TV (Android 11
+and newer). Untested:
 classic Android TV (the Home button should work the same way) and Amazon Fire TV (Fire OS, which is based on
 Android). Not supported: Samsung (Tizen) and LG (webOS).
 
